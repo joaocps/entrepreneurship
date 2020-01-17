@@ -1,4 +1,4 @@
 # entrepreneurship
 Entrepreneurship final report
 
-!(/portableGasClean.jpg)
+!(https://github.com/joaocps/entrepreneurship/blob/master/portableGasClean.jpg)
