@@ -1,4 +1,4 @@
 # entrepreneurship
 Entrepreneurship final report
 
-!(portableGasClean.jpg)
+!(/portableGasClean.jpg)
